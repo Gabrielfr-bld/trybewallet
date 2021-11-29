@@ -42,11 +42,12 @@ class Login extends React.Component {
     const { email, password } = this.state;
 
     return (
-      <div>
-        <h1 className="h1">Login</h1>
+      <div className="walletLogin">
+        <img src="https://image.flaticon.com/icons/png/512/218/218390.png" alt="ícone da carteira" width="100px" />
+        <h1>Login</h1>
         <form id="form">
-          <div className="input-group mb-3">
-            <label htmlFor="email">
+          <div>
+            <label htmlFor="email" className="email">
               <input
                 className="form-control"
                 name="email"
@@ -59,7 +60,7 @@ class Login extends React.Component {
             </label>
           </div>
           <div>
-            <label htmlFor="password">
+            <label htmlFor="password" className="password">
               <input
                 className="form-control"
                 name="password"
@@ -69,6 +70,7 @@ class Login extends React.Component {
                 data-testid="password-input"
                 onChange={ this.handleChange }
               />
+              <p>*Senha com no mínimo 6 carac.</p>
             </label>
           </div>
           <button
