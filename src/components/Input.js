@@ -1,11 +1,12 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
+import '../css/Input.css';
 
 class Input extends Component {
   render() {
     const { label, name, type, id, onChange, value } = this.props;
     return (
-      <label htmlFor={ id }>
+      <label htmlFor={ id } className="expense">
         { label }
         { ' ' }
         <input
@@ -14,6 +15,7 @@ class Input extends Component {
           value={ value }
           onChange={ onChange }
           name={ name }
+          className="form-control"
         />
       </label>
     );
