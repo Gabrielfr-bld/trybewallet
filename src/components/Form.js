@@ -57,7 +57,7 @@ class Form extends Component {
     const { currencies } = this.props;
     const { value, description, currency, method, tag } = this.state;
     return (
-      <form>
+      <form className="addExpense">
         <Input
           label="Valor:"
           name="value"
