@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/trybewallet/static/css/main.20285f1e.chunk.css",
-    "main.js": "/trybewallet/static/js/main.a0be6e36.chunk.js",
-    "main.js.map": "/trybewallet/static/js/main.a0be6e36.chunk.js.map",
+    "main.css": "/trybewallet/static/css/main.f3d9a957.chunk.css",
+    "main.js": "/trybewallet/static/js/main.1e9290c9.chunk.js",
+    "main.js.map": "/trybewallet/static/js/main.1e9290c9.chunk.js.map",
     "runtime-main.js": "/trybewallet/static/js/runtime-main.ec83dc77.js",
     "runtime-main.js.map": "/trybewallet/static/js/runtime-main.ec83dc77.js.map",
     "static/css/2.d9ad5f5c.chunk.css": "/trybewallet/static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.12cec8c6.chunk.js": "/trybewallet/static/js/2.12cec8c6.chunk.js",
-    "static/js/2.12cec8c6.chunk.js.map": "/trybewallet/static/js/2.12cec8c6.chunk.js.map",
+    "static/js/2.065b5455.chunk.js": "/trybewallet/static/js/2.065b5455.chunk.js",
+    "static/js/2.065b5455.chunk.js.map": "/trybewallet/static/js/2.065b5455.chunk.js.map",
     "index.html": "/trybewallet/index.html",
-    "precache-manifest.6e08841374c5ff760eff6eef731f32d2.js": "/trybewallet/precache-manifest.6e08841374c5ff760eff6eef731f32d2.js",
+    "precache-manifest.41d827106d359d6d2b9fd57da3db287d.js": "/trybewallet/precache-manifest.41d827106d359d6d2b9fd57da3db287d.js",
     "service-worker.js": "/trybewallet/service-worker.js",
     "static/css/2.d9ad5f5c.chunk.css.map": "/trybewallet/static/css/2.d9ad5f5c.chunk.css.map",
-    "static/css/main.20285f1e.chunk.css.map": "/trybewallet/static/css/main.20285f1e.chunk.css.map",
-    "static/js/2.12cec8c6.chunk.js.LICENSE.txt": "/trybewallet/static/js/2.12cec8c6.chunk.js.LICENSE.txt"
+    "static/css/main.f3d9a957.chunk.css.map": "/trybewallet/static/css/main.f3d9a957.chunk.css.map",
+    "static/js/2.065b5455.chunk.js.LICENSE.txt": "/trybewallet/static/js/2.065b5455.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ec83dc77.js",
     "static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.12cec8c6.chunk.js",
-    "static/css/main.20285f1e.chunk.css",
-    "static/js/main.a0be6e36.chunk.js"
+    "static/js/2.065b5455.chunk.js",
+    "static/css/main.f3d9a957.chunk.css",
+    "static/js/main.1e9290c9.chunk.js"
   ]
 }
