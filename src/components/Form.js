@@ -5,6 +5,7 @@ import Input from './Input';
 import Select from './Select';
 import { metodosPagamentos, tags } from '../services/metodosPagamentos&Tags';
 import { fetchCurrencies, addExpenses } from '../actions';
+import '../css/Input.css';
 
 class Form extends Component {
   constructor() {

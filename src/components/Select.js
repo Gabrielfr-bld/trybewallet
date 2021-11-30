@@ -5,13 +5,14 @@ class Select extends Component {
   render() {
     const { label, options, id, onChange, value } = this.props;
     return (
-      <label htmlFor={ id }>
+      <label htmlFor={ id } className="selectExpense">
         { label }
         { ' ' }
         <select
           id={ id }
           value={ value }
           onChange={ onChange }
+          className="select"
         >
           { options.map((option) => (
             <option

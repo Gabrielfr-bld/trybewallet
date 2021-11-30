@@ -1,4 +1,23 @@
 .expense {
   margin: 20px;
+  margin-top: 50px;
   text-align: center;
+}
+
+.selectExpense {
+  margin: 10px;
+  text-align: left;
+}
+
+.select {
+  background-color: white;
+  border-radius: 5px;
+  color: black;
+  height: 30px;
+}
+
+.addExpense button {
+  background-color: rgb(39, 177, 39);
+  border-radius: 5px;
+  width: 200px;
 }
